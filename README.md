@@ -30,6 +30,8 @@ Run these commands to setup your project
       
     # Do this! 
      Create a connection for AWS like in the screenshot below
+     Format it with a json format and put it in the Extras field.
+     Example: {"aws_access_key_id": "your_own_access_key", "aws_secret_access_key": "your_own_secret_key"}
  
    ![image](https://user-images.githubusercontent.com/24456790/220696846-04a985d7-d201-4905-a92a-79516c394308.png)
    
