@@ -21,6 +21,9 @@ Run these commands to setup your project
 
     # Run command to create folder to store your csv or flat file to work with, Run command
       mkdir ./data
+      
+    # Run command to initialize the database
+      docker-compose up airflow-init
 
     # Run command to start Airflow
       docker-compose up -d
